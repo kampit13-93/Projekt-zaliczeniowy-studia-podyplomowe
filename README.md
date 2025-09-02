@@ -11,9 +11,9 @@ Projekt polega na klasyfikacji grzybów jako **jadalne** lub **trujące** na pod
 ## Zawartość repozytorium
 
 - `Projekt_końcowy_Kamil_Pitner_2025.ipynb` – główny notebook z kodem i analizą
-- `PODSUMOWANIE.md` – podsumowanie wyników i wniosków
+- `SUMMARY.md` – podsumowanie wyników i wniosków
 - `README.md` – opis projektu
-- `LICENSE.md` – licencja
+- `LICENSE.txt` – licencja
 - `REQUIREMENTS.txt` – opis bibliotek
 
 ---
