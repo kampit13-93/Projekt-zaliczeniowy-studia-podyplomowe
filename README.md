@@ -56,7 +56,7 @@ Zalecane biblioteki (można zainstalować przez pip): pip install pandas numpy m
 ---
 
 ## Licencja
-Kod źródłowy zawarty w tym repozytorium został stworzony przeze mnie i udostępniony na licencji MIT (patrz plik LICENSE.md)
+Kod źródłowy zawarty w tym repozytorium został stworzony przeze mnie i udostępniony na licencji MIT (patrz plik LICENSE.txt)
 
 ---
 
