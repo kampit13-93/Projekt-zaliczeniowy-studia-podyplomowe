@@ -1,4 +1,4 @@
-# Projekt-zaliczeniowy-studia-podyplomowe
+# Projekt-zaliczeniowy-studia-podyplomowe-DS
 Projekt analizy danych z zastosowaniem algorytmów ML (Python, Kaggle)
 
 
