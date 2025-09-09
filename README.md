@@ -1,66 +1,66 @@
-# Projekt-zaliczeniowy-studia-podyplomowe-DS
+# Final Project for Postgraduate Studies in Data Science
 
-Projekt analizy danych z zastosowaniem algorytmów ML (Python, Kaggle)
+Data Analysis Project Using ML Algorithms (Python, Kaggle)
 
-# Klasyfikacja Grzybów – Projekt Zaliczeniowy
+## Mushroom Classification – Final Project
 
-Projekt polega na klasyfikacji grzybów jako **jadalne** lub **trujące** na podstawie danych opisowych.
-
----
-
-## Zawartość repozytorium
-
-- `Projekt_końcowy_Kamil_Pitner_2025.ipynb` – główny notebook z kodem i analizą
-- `PODSUMOWANIE.md` – podsumowanie wyników i wniosków
-- `README.md` – opis projektu
-- `LICENSE.txt` – licencja
-- `REQUIREMENTS.txt` – opis bibliotek
+The project involves classifying mushrooms as **edible** or **poisonous** based on descriptive data.
 
 ---
 
-## Dane
+## Repository Contents
 
-- Liczba instancji: **8124**
-- Liczba cech: **22**
-- Klasy: jadalne (51.8%) vs trujące (48.2%)
-
-Źródło danych: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/73/mushroom)
-
----
-
-## Użyte algorytmy
-
-1. Regresja logistyczna
-2. KNN (k najbliższych sąsiadów)
-3. SVM – wersje liniowa, wielomianowa, sigmoidalna
-4. Naiwny klasyfikator Bayesa
-5. Drzewa decyzyjne
-6. Las losowy
+- `Projekt_końcowy_Kamil_Pitner_2025.ipynb` – main notebook with code and analysis
+- `SUMMARY.md` – summary of results and conclusions
+- `README.md` – project description
+- `LICENSE.txt` – license
+- `REQUIREMENTS.txt` – library dependencies
 
 ---
 
-## Wyniki
+## Data
 
-- **KNN** i **las losowy** osiągnęły perfekcyjną skuteczność.
-- **SVM (sigmoidalna)** popełniał błędy klasyfikując grzyby trujące jako jadalne.
-- **Regresja logistyczna** i **SVM (liniowy)** radziły sobie bardzo dobrze.
-- Więcej szczegółów w pliku `PODSUMOWANIE.md`.
+- Number of instances: **8124**
+- Number of features: **22**
+- Classes: edible (51.8%) vs poisonous (48.2%)
 
----
-
-## Wymagania
-
-Projekt działa w środowisku Jupyter Notebook.
-Zalecane biblioteki (można zainstalować przez pip): pip install pandas numpy matplotlib seaborn scikit-learn
+Data source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/73/mushroom)
 
 ---
 
-## Licencja
-Kod źródłowy zawarty w tym repozytorium został stworzony przeze mnie i udostępniony na licencji MIT (patrz plik LICENSE.txt)
+## Used Algorithms
+
+1. Logistic Regression
+2. KNN (k-Nearest Neighbors)
+3. SVM – linear, polynomial, and sigmoid versions
+4. Naive Bayes classifier
+5. Decision Trees
+6. Random Forest
 
 ---
 
-## Licencja danych:
-Dane pochodzą z platformy Kaggle, zestaw danych Mushroom Classification jest dostępny na licencji [Kaggle License](https://www.kaggle.com/datasets/uciml/mushroom-classification)
+## Results
+
+- **KNN** and **Random Forest** achieved perfect accuracy.
+- **SVM (sigmoid)** made errors classifying poisonous mushrooms as edible.
+- **Logistic Regression** and **SVM (linear)** performed very well.
+- More details in the `PODSUMOWANIE.md` file.
+
+---
+
+## Requirements
+
+The project runs in a Jupyter Notebook environment.  
+Recommended libraries (can be installed via pip): `pip install pandas numpy matplotlib seaborn scikit-learn`
+
+---
+
+## License
+The source code contained in this repository was created by me and is available under the MIT license (see the LICENSE.txt file).
+
+---
+
+## Data License:
+The data comes from the Kaggle platform. The Mushroom Classification dataset is available under the [Kaggle License](https://www.kaggle.com/datasets/uciml/mushroom-classification)
 
 ---
