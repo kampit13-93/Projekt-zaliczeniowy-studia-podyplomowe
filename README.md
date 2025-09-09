@@ -10,7 +10,7 @@ The project involves classifying mushrooms as **edible** or **poisonous** based 
 
 ## Repository Contents
 
-- `Projekt_końcowy_Kamil_Pitner_2025.ipynb` – main notebook with code and analysis
+- `Final_project_Kamil_Pitner_2025.ipynb` – main notebook with code and analysis
 - `SUMMARY.md` – summary of results and conclusions
 - `README.md` – project description
 - `LICENSE.txt` – license
