@@ -44,7 +44,7 @@ Data source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/datas
 - **KNN** and **Random Forest** achieved perfect accuracy.
 - **SVM (sigmoid)** made errors classifying poisonous mushrooms as edible.
 - **Logistic Regression** and **SVM (linear)** performed very well.
-- More details in the `PODSUMOWANIE.md` file.
+- More details in the `SUMMARY.md` file.
 
 ---
 
